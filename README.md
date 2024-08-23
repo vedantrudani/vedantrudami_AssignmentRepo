@@ -8,7 +8,7 @@ Submitting Date: 23/08/2024
 
 Step 1 : Clone the repository
 
-git clone  https://github.com/vedantrudani/VedantRudani_AssignmentRepo.git
+git clone  https://github.com/vedantrudani/vedantrudami_AssignmentRepo.git
 
 Step 2 : run below command in you terminal.
 
